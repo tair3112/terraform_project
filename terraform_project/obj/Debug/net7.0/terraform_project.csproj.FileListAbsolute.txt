@@ -1,0 +1,15 @@
+C:\sela\project\terraform\terraform_project\bin\Debug\net7.0\terraform_project.exe
+C:\sela\project\terraform\terraform_project\bin\Debug\net7.0\terraform_project.deps.json
+C:\sela\project\terraform\terraform_project\bin\Debug\net7.0\terraform_project.runtimeconfig.json
+C:\sela\project\terraform\terraform_project\bin\Debug\net7.0\terraform_project.dll
+C:\sela\project\terraform\terraform_project\bin\Debug\net7.0\terraform_project.pdb
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.csproj.AssemblyReference.cache
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.AssemblyInfoInputs.cache
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.AssemblyInfo.cs
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.csproj.CoreCompileInputs.cache
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.dll
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\refint\terraform_project.dll
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.pdb
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\terraform_project.genruntimeconfig.cache
+C:\sela\project\terraform\terraform_project\obj\Debug\net7.0\ref\terraform_project.dll
